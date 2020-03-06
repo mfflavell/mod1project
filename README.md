@@ -52,7 +52,7 @@ We used many DataFrame methods to analyze the data including .describe, .groupby
 We determined this is a good time to enter the movie business.  from 1970, which had one high grossing film, to 2017, which had over 50, there is a positive trend in the opportunity for blockbuster films.
 
 
-We identified the ideal range for a film budget to be between 40 to 100 million dollars.  The ability to make more in profits did increase if the budget was more than 100 million, but so did the risk of not achieving profitability.
+We identified the ideal range for a film budget to be between 120 to 160 million dollars.  The ability to make more in profits did increase if the budget was more than 160 million, but so did the risk of not achieving profitability.
 
 
 We found that the most profitable genres are Action, Adventure, Comedy and Animation.  Three of these genres rely heavily on CGI (computer generated imagery) and special effects that require a great deal of technological competence.  Definitely an opportunity for Microsoft.
@@ -70,7 +70,7 @@ We found that COMPANY, COMPANY, and COMPANY would be Microsofts main competitors
 
 We recommend...
 *  Microsoft enter the film industry to leverage their competitive advantage in technology.
-*  Invest between $40 to 100 million per film within the action, adventure, animation, and comedy genres.
+*  Invest between $120 to 160 million per film within the action, adventure, animation, and comedy genres.
 *  Focus on stories that will have an international appeal and build global strategic partnerships to ensure international distribution.
 *  Focus on stories that can sustain multiple films in a collection.
 *  Conduct a detailed competitive analysis of COMPANY, COMPANY, and COMPANY and develop a talent aquistition strategy to attract some of their employees to join Microsoft.
