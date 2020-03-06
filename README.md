@@ -51,19 +51,23 @@ We used many DataFrame methods to analyze the data including .describe, .groupby
 
 We determined this is a good time to enter the movie business.  from 1970, which had one high grossing film, to 2017, which had over 50, there is a positive trend in the opportunity for blockbuster films.
 
+![Number of Blockbusters per Year](https://github.com/Frankafka/mod1project/blob/master/Number%20of%20Blockbuster%20by%20Year.png)
 
-We identified the ideal range for a film budget to be between 120 to 160 million dollars.  The ability to make more in profits did increase if the budget was more than 160 million, but so did the risk of not achieving profitability.
+We identified the ideal film budget for one film is $40 million dollars.  The ability to make more in profits did increase if the budget was more than $40 million, but so did the risk of not achieving profitability.
 
+![Ideal Budget Plot by Profitability](https://github.com/Frankafka/mod1project/blob/master/Profitability%20and%20Budget.png)
 
 We found that the most profitable genres are Action, Adventure, Comedy and Animation.  Three of these genres rely heavily on CGI (computer generated imagery) and special effects that require a great deal of technological competence.  Definitely an opportunity for Microsoft.
 
+![Most Profitable Genres](https://github.com/Frankafka/mod1project/blob/master/Profitability%20by%20Genre.png)
 
 We determined the factor most correlated with profitability was foreign gross revenue over the lifetime of the film.  Domestic lifetime gross revenue at the box office often lead to breaking even financially, but the revenue from abroad lead to profitability.
 
+![Profitability Correlation](https://github.com/Frankafka/mod1project/blob/master/Microsoft%20Profitability%20Correlation.png)
 
-We found that COMPANY, COMPANY, and COMPANY would be Microsofts main competitors, especially in the most profitable genres.
+We found that Walt Disney, Marvel Studios, Universal Pictures, and Paramount would be Microsofts main competitors, especially in the most profitable genres.
 
-
+![Most Profitable Competitors](https://github.com/Frankafka/mod1project/blob/master/Most%20Profitable%20Competitors.png)
 
 
 # Recommendations
@@ -73,4 +77,4 @@ We recommend...
 *  Invest between $120 to 160 million per film within the action, adventure, animation, and comedy genres.
 *  Focus on stories that will have an international appeal and build global strategic partnerships to ensure international distribution.
 *  Focus on stories that can sustain multiple films in a collection.
-*  Conduct a detailed competitive analysis of COMPANY, COMPANY, and COMPANY and develop a talent aquistition strategy to attract some of their employees to join Microsoft.
+*  Conduct a detailed competitive analysis of Walt Disney, Marvel Studios, Universal Pictures, and Paramount and develop a talent aquistition strategy to attract some of their employees to join Microsoft.
