@@ -74,7 +74,7 @@ We found that Walt Disney, Marvel Studios, Universal Pictures, and Paramount wou
 
 We recommend...
 *  Microsoft enter the film industry to leverage their competitive advantage in technology.
-*  Invest between $120 to 160 million per film within the action, adventure, animation, and comedy genres.
+*  Invest $40 million per film within the action, adventure, animation, and comedy genres with a production target of 3-4 films.
 *  Focus on stories that will have an international appeal and build global strategic partnerships to ensure international distribution.
 *  Focus on stories that can sustain multiple films in a collection.
 *  Conduct a detailed competitive analysis of Walt Disney, Marvel Studios, Universal Pictures, and Paramount and develop a talent aquistition strategy to attract some of their employees to join Microsoft.
